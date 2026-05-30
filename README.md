@@ -197,9 +197,8 @@ Claude reads your prompt
 
 ---
 
-## 🤝 Contributing
-
-Pull requests and suggestions welcome! Please open an issue or PR.
+## Youtube
+https://youtu.be/3ey3mv0WYJA
 
 ---
 
